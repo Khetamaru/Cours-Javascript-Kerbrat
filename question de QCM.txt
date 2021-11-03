@@ -1,0 +1,6 @@
+Question : 0100 + 01
+
+Reponse 1 : 101
+Reponse 2 : 5
+Reponse 3 : 65
+Reponse 4 : NaN
