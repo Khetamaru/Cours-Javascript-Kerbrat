@@ -1,6 +1,26 @@
-Question : 0100 + 01
+_____________________________________________________
+
+Question Valeurs et comparaisons : 0100 + 01
 
 Reponse 1 : 101
 Reponse 2 : 5
 Reponse 3 : 65
 Reponse 4 : NaN
+
+_____________________________________________________
+
+Question Structures de contrôle : 
+
+for (let i = 1; i <= 10; i++); {
+	console.log(i);
+}
+
+Combien de fois s'exécutera la boucle ?
+
+Reponse 1 : 9
+Reponse 2 : 10
+Reponse 3 : 1
+Reponse 4 : À l'infini
+
+_____________________________________________________
+
