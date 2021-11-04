@@ -15,15 +15,8 @@ function padLeft(char, str, quantity) {
     return str;
 }
 
-function padZeros(str, quantity) {
-
-    return padLeft("0", str, quantity)
-}
-
-function padSpaces(str, quantity) {
-
-    return padLeft(" ", str, quantity)
-}
+const padZeros = function(str, quantity) { return padLeft("0", str, quantity); }
+const padSpaces = function(str, quantity) { return padLeft(" ", str, quantity); }
 
 console.log(padLeft("u", "test", 8));
 console.log(padLeft("u", "test", 2));
